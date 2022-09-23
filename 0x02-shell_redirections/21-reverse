@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD:0x00-shell_basics/2-bring_me_home
+cd
+=======
+rev
+>>>>>>> 4d87149313809d6f7fff5ea42801fd5bd98acc32:0x02-shell_redirections/21-reverse
